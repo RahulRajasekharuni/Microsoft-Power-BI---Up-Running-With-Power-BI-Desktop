@@ -1,4 +1,4 @@
-# Microsoft-Power-BI---Up-Running-With-Power-BI-Desktop
+# Microsoft Power BI - Up & Running With Power BI Desktop
 
 Screenshots of the final dashboards I created whilst doing the "Microsoft-Power-BI---Up-Running-With-Power-BI-Desktop" course. The course taught me; how to connect and shape data, creating table relationships & data models, analysing data with DAX calculations and visualising data.
 
