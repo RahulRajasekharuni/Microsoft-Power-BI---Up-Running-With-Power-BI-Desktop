@@ -4,7 +4,7 @@ Screenshots of the final dashboards I created whilst doing the "Microsoft Power 
 
 Some of the more advanced things I have learnt include;
 
-1.What If parameters
+1. What If parameters
 2. Drill through filters
 3. Time intelligence DAX formulas
 4. Iterator ("X") functions
